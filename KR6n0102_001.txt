@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:22.477117
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:10
 #+TITLE: 性相通說（選錄序文）
 #+PROPERTY: CBETA_ID L153n1635
 #+PROPERTY: ID KR6n0102
 #+PROPERTY: SOURCE Qianlong Edition of the Canon Vol. 153, No. 1635
 #+PROPERTY: VOL 153
 #+PROPERTY: BASEEDITION L
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0102_L_001-0329a> 
 #+PROPERTY: JUAN 1
-
- 序　　　　　　　　　　　　　　素六¶
+序　　　　　　　　　　　　　　素六¶
 
 佛稱三界醫王所說一大藏經如世之醫方¶
 至於相宗文字如醫家之脉訣世之醫者捨¶
